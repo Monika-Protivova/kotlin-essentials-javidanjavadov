@@ -1,6 +1,8 @@
 plugins {
     kotlin("jvm") version "1.9.22"
+    application
 }
+
 
 group = "com.motycka.edu"
 version = "0.0.1"
@@ -70,4 +72,7 @@ tasks.register<Test>("testAreaCalculator") {
     testLogging {
         events("passed", "skipped", "failed")
     }
+}
+application {
+    mainClass.set("com.motycka.edu.lesson01.MainKt")
 }
