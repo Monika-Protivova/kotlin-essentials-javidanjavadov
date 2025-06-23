@@ -1,0 +1,16 @@
+19:07:37 INFO  [main] c.m.e.l.TemperatureConverter - Converting 34.0 Celsius to Fahrenheit
+19:07:37 INFO  [main] c.m.e.l.TemperatureConverter - Converting 94.0 Fahrenheit to Celsius
+19:28:50 ERROR [main] c.m.e.l.LoggingExample - error message
+19:28:50 WARN  [main] c.m.e.l.LoggingExample - warn message
+19:28:50 INFO  [main] c.m.e.l.LoggingExample - info message
+19:28:50 DEBUG [main] c.m.e.l.LoggingExample - debug message
+19:28:50 TRACE [main] c.m.e.l.LoggingExample - trace message
+19:28:51 INFO  [main] c.m.e.l.TemperatureConverter - Converting 34.0 Celsius to Fahrenheit
+19:28:51 INFO  [main] c.m.e.l.TemperatureConverter - Converting 94.0 Fahrenheit to Celsius
+19:30:23 ERROR [main] c.m.e.l.LoggingExample - error message
+19:30:23 WARN  [main] c.m.e.l.LoggingExample - warn message
+19:30:23 INFO  [main] c.m.e.l.LoggingExample - info message
+19:30:23 DEBUG [main] c.m.e.l.LoggingExample - debug message
+19:30:23 TRACE [main] c.m.e.l.LoggingExample - trace message
+19:30:23 INFO  [main] c.m.e.l.TemperatureConverter - Converting 34.0 Celsius to Fahrenheit
+19:30:23 INFO  [main] c.m.e.l.TemperatureConverter - Converting 94.0 Fahrenheit to Celsius
